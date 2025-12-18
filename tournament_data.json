@@ -1,0 +1,2997 @@
+{
+  "submissions": [
+    {
+      "id": "submission_1766076810471",
+      "destination": "Utah",
+      "groupSize": 4,
+      "accommodations": [
+        {
+          "id": "custom_1766076796881",
+          "name": "Custom Accommodation",
+          "type": "Custom",
+          "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+          "pricePerNight": 0,
+          "beds": 0,
+          "bathrooms": 0,
+          "distanceToMountain": 0,
+          "rating": 0,
+          "amenities": [],
+          "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+          "description": "Custom accommodation added by user",
+          "rankingScore": 0,
+          "pricePerPerson": 0,
+          "isCustom": true
+        },
+        {
+          "id": "utah_1",
+          "name": "Cozy Ski Chalet near Snowbird",
+          "type": "Airbnb",
+          "pricePerNight": 280,
+          "beds": 3,
+          "bathrooms": 2,
+          "distanceToMountain": 0.8,
+          "rating": 4.8,
+          "amenities": [
+            "hot_tub",
+            "ski_storage",
+            "fireplace",
+            "kitchen",
+            "wifi",
+            "parking"
+          ],
+          "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+          "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+          "rankingScore": 237,
+          "pricePerPerson": 70
+        },
+        {
+          "id": "utah_2",
+          "name": "Luxury Condo - Solitude Village",
+          "type": "Airbnb",
+          "pricePerNight": 450,
+          "beds": 4,
+          "bathrooms": 3,
+          "distanceToMountain": 0.2,
+          "rating": 4.9,
+          "amenities": [
+            "hot_tub",
+            "ski_storage",
+            "kitchen",
+            "wifi",
+            "parking",
+            "mountain_view"
+          ],
+          "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+          "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+          "rankingScore": 239.5,
+          "pricePerPerson": 113
+        }
+      ],
+      "submittedAt": "2025-12-18T16:53:30.471Z",
+      "userId": "user_1766076810471"
+    },
+    {
+      "id": "submission_1766084500000",
+      "destination": "Utah",
+      "groupSize": 4,
+      "accommodations": [
+        {
+          "id": "utah_2",
+          "name": "Luxury Condo - Solitude Village",
+          "type": "Airbnb",
+          "pricePerNight": 450,
+          "beds": 4,
+          "bathrooms": 3,
+          "distanceToMountain": 0.2,
+          "rating": 4.9,
+          "amenities": [
+            "hot_tub",
+            "ski_storage",
+            "kitchen",
+            "wifi",
+            "parking",
+            "mountain_view"
+          ],
+          "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+          "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+          "rankingScore": 239.5,
+          "pricePerPerson": 113
+        },
+        {
+          "id": "custom_1766084500001",
+          "name": "Mountain View Lodge",
+          "type": "Custom",
+          "url": "https://www.vrbo.com/example-mountain-lodge",
+          "pricePerNight": 320,
+          "beds": 3,
+          "bathrooms": 2,
+          "distanceToMountain": 1.5,
+          "rating": 4.7,
+          "amenities": [
+            "fireplace",
+            "kitchen",
+            "wifi",
+            "parking"
+          ],
+          "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+          "description": "Cozy mountain lodge with great views",
+          "rankingScore": 200,
+          "pricePerPerson": 80,
+          "isCustom": true
+        },
+        {
+          "id": "utah_3_custom",
+          "name": "Ski Resort Townhouse",
+          "type": "Airbnb",
+          "pricePerNight": 380,
+          "beds": 4,
+          "bathrooms": 2,
+          "distanceToMountain": 0.5,
+          "rating": 4.6,
+          "amenities": [
+            "hot_tub",
+            "ski_storage",
+            "fireplace",
+            "kitchen",
+            "wifi",
+            "parking",
+            "washer_dryer"
+          ],
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+          "description": "Modern townhouse steps from the slopes with all amenities.",
+          "rankingScore": 225,
+          "pricePerPerson": 95
+        }
+      ],
+      "submittedAt": "2025-12-18T19:01:40.000Z",
+      "userId": "user_sarah_2025"
+    },
+    {
+      "id": "submission_1766084600000",
+      "destination": "Utah",
+      "groupSize": 4,
+      "accommodations": [
+        {
+          "id": "utah_1",
+          "name": "Cozy Ski Chalet near Snowbird",
+          "type": "Airbnb",
+          "pricePerNight": 280,
+          "beds": 3,
+          "bathrooms": 2,
+          "distanceToMountain": 0.8,
+          "rating": 4.8,
+          "amenities": [
+            "hot_tub",
+            "ski_storage",
+            "fireplace",
+            "kitchen",
+            "wifi",
+            "parking"
+          ],
+          "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+          "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+          "rankingScore": 237,
+          "pricePerPerson": 70
+        },
+        {
+          "id": "custom_1766084600001",
+          "name": "Alpine Retreat",
+          "type": "Custom",
+          "url": "https://www.booking.com/alpine-retreat-utah",
+          "pricePerNight": 250,
+          "beds": 2,
+          "bathrooms": 1,
+          "distanceToMountain": 2,
+          "rating": 4.5,
+          "amenities": [
+            "fireplace",
+            "kitchen",
+            "wifi"
+          ],
+          "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+          "description": "Charming alpine retreat perfect for small groups",
+          "rankingScore": 180,
+          "pricePerPerson": 63,
+          "isCustom": true
+        },
+        {
+          "id": "utah_4_custom",
+          "name": "Powder Mountain House",
+          "type": "Airbnb",
+          "pricePerNight": 420,
+          "beds": 5,
+          "bathrooms": 3,
+          "distanceToMountain": 0.3,
+          "rating": 4.9,
+          "amenities": [
+            "hot_tub",
+            "ski_storage",
+            "fireplace",
+            "kitchen",
+            "wifi",
+            "parking",
+            "mountain_view",
+            "shuttle_service"
+          ],
+          "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+          "description": "Luxury house with shuttle service and incredible mountain views.",
+          "rankingScore": 255,
+          "pricePerPerson": 105
+        }
+      ],
+      "submittedAt": "2025-12-18T19:03:20.000Z",
+      "userId": "user_mike_2025"
+    }
+  ],
+  "tournaments": [
+    {
+      "id": "tournament_1766084662649",
+      "destination": "Utah",
+      "bracket": {
+        "rounds": [
+          [
+            {
+              "id": "match_1766084662649_0",
+              "accommodation": {
+                "id": "utah_1",
+                "name": "Cozy Ski Chalet near Snowbird",
+                "type": "Airbnb",
+                "pricePerNight": 280,
+                "beds": 3,
+                "bathrooms": 2,
+                "distanceToMountain": 0.8,
+                "rating": 4.8,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking"
+                ],
+                "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+                "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+                "rankingScore": 237,
+                "pricePerPerson": 70,
+                "submissionCount": 2
+              },
+              "votes": 2,
+              "round": 1
+            },
+            {
+              "id": "match_1766084662649_1",
+              "accommodation": {
+                "id": "custom_1766084500001",
+                "name": "Mountain View Lodge",
+                "type": "Custom",
+                "url": "https://www.vrbo.com/example-mountain-lodge",
+                "pricePerNight": 320,
+                "beds": 3,
+                "bathrooms": 2,
+                "distanceToMountain": 1.5,
+                "rating": 4.7,
+                "amenities": [
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking"
+                ],
+                "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+                "description": "Cozy mountain lodge with great views",
+                "rankingScore": 200,
+                "pricePerPerson": 80,
+                "isCustom": true,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            },
+            {
+              "id": "match_1766084662649_2",
+              "accommodation": {
+                "id": "custom_1766076796881",
+                "name": "Custom Accommodation",
+                "type": "Custom",
+                "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+                "pricePerNight": 0,
+                "beds": 0,
+                "bathrooms": 0,
+                "distanceToMountain": 0,
+                "rating": 0,
+                "amenities": [],
+                "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+                "description": "Custom accommodation added by user",
+                "rankingScore": 0,
+                "pricePerPerson": 0,
+                "isCustom": true,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            },
+            {
+              "id": "match_1766084662649_3",
+              "accommodation": {
+                "id": "utah_2",
+                "name": "Luxury Condo - Solitude Village",
+                "type": "Airbnb",
+                "pricePerNight": 450,
+                "beds": 4,
+                "bathrooms": 3,
+                "distanceToMountain": 0.2,
+                "rating": 4.9,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "kitchen",
+                  "wifi",
+                  "parking",
+                  "mountain_view"
+                ],
+                "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+                "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+                "rankingScore": 239.5,
+                "pricePerPerson": 113,
+                "submissionCount": 2
+              },
+              "votes": 2,
+              "round": 1
+            },
+            {
+              "id": "match_1766084662649_4",
+              "accommodation": {
+                "id": "utah_4_custom",
+                "name": "Powder Mountain House",
+                "type": "Airbnb",
+                "pricePerNight": 420,
+                "beds": 5,
+                "bathrooms": 3,
+                "distanceToMountain": 0.3,
+                "rating": 4.9,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking",
+                  "mountain_view",
+                  "shuttle_service"
+                ],
+                "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+                "description": "Luxury house with shuttle service and incredible mountain views.",
+                "rankingScore": 255,
+                "pricePerPerson": 105,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            },
+            {
+              "id": "match_1766084662649_5",
+              "accommodation": {
+                "id": "custom_1766084600001",
+                "name": "Alpine Retreat",
+                "type": "Custom",
+                "url": "https://www.booking.com/alpine-retreat-utah",
+                "pricePerNight": 250,
+                "beds": 2,
+                "bathrooms": 1,
+                "distanceToMountain": 2,
+                "rating": 4.5,
+                "amenities": [
+                  "fireplace",
+                  "kitchen",
+                  "wifi"
+                ],
+                "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+                "description": "Charming alpine retreat perfect for small groups",
+                "rankingScore": 180,
+                "pricePerPerson": 63,
+                "isCustom": true,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            },
+            {
+              "id": "match_1766084662649_6",
+              "accommodation": {
+                "id": "utah_3_custom",
+                "name": "Ski Resort Townhouse",
+                "type": "Airbnb",
+                "pricePerNight": 380,
+                "beds": 4,
+                "bathrooms": 2,
+                "distanceToMountain": 0.5,
+                "rating": 4.6,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking",
+                  "washer_dryer"
+                ],
+                "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+                "description": "Modern townhouse steps from the slopes with all amenities.",
+                "rankingScore": 225,
+                "pricePerPerson": 95,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            }
+          ],
+          [
+            {
+              "id": "match_1766084662649_1_0",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084662649_0",
+                  "accommodation": {
+                    "id": "utah_1",
+                    "name": "Cozy Ski Chalet near Snowbird",
+                    "type": "Airbnb",
+                    "pricePerNight": 280,
+                    "beds": 3,
+                    "bathrooms": 2,
+                    "distanceToMountain": 0.8,
+                    "rating": 4.8,
+                    "amenities": [
+                      "hot_tub",
+                      "ski_storage",
+                      "fireplace",
+                      "kitchen",
+                      "wifi",
+                      "parking"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+                    "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+                    "rankingScore": 237,
+                    "pricePerPerson": 70,
+                    "submissionCount": 2
+                  },
+                  "votes": 2,
+                  "round": 1
+                },
+                "accommodation2": {
+                  "id": "match_1766084662649_1",
+                  "accommodation": {
+                    "id": "custom_1766084500001",
+                    "name": "Mountain View Lodge",
+                    "type": "Custom",
+                    "url": "https://www.vrbo.com/example-mountain-lodge",
+                    "pricePerNight": 320,
+                    "beds": 3,
+                    "bathrooms": 2,
+                    "distanceToMountain": 1.5,
+                    "rating": 4.7,
+                    "amenities": [
+                      "fireplace",
+                      "kitchen",
+                      "wifi",
+                      "parking"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+                    "description": "Cozy mountain lodge with great views",
+                    "rankingScore": 200,
+                    "pricePerPerson": 80,
+                    "isCustom": true,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 1
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 2
+            },
+            {
+              "id": "match_1766084662649_1_2",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084662649_2",
+                  "accommodation": {
+                    "id": "custom_1766076796881",
+                    "name": "Custom Accommodation",
+                    "type": "Custom",
+                    "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+                    "pricePerNight": 0,
+                    "beds": 0,
+                    "bathrooms": 0,
+                    "distanceToMountain": 0,
+                    "rating": 0,
+                    "amenities": [],
+                    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+                    "description": "Custom accommodation added by user",
+                    "rankingScore": 0,
+                    "pricePerPerson": 0,
+                    "isCustom": true,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 1
+                },
+                "accommodation2": {
+                  "id": "match_1766084662649_3",
+                  "accommodation": {
+                    "id": "utah_2",
+                    "name": "Luxury Condo - Solitude Village",
+                    "type": "Airbnb",
+                    "pricePerNight": 450,
+                    "beds": 4,
+                    "bathrooms": 3,
+                    "distanceToMountain": 0.2,
+                    "rating": 4.9,
+                    "amenities": [
+                      "hot_tub",
+                      "ski_storage",
+                      "kitchen",
+                      "wifi",
+                      "parking",
+                      "mountain_view"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+                    "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+                    "rankingScore": 239.5,
+                    "pricePerPerson": 113,
+                    "submissionCount": 2
+                  },
+                  "votes": 2,
+                  "round": 1
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 2
+            },
+            {
+              "id": "match_1766084662649_1_4",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084662649_4",
+                  "accommodation": {
+                    "id": "utah_4_custom",
+                    "name": "Powder Mountain House",
+                    "type": "Airbnb",
+                    "pricePerNight": 420,
+                    "beds": 5,
+                    "bathrooms": 3,
+                    "distanceToMountain": 0.3,
+                    "rating": 4.9,
+                    "amenities": [
+                      "hot_tub",
+                      "ski_storage",
+                      "fireplace",
+                      "kitchen",
+                      "wifi",
+                      "parking",
+                      "mountain_view",
+                      "shuttle_service"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+                    "description": "Luxury house with shuttle service and incredible mountain views.",
+                    "rankingScore": 255,
+                    "pricePerPerson": 105,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 1
+                },
+                "accommodation2": {
+                  "id": "match_1766084662649_5",
+                  "accommodation": {
+                    "id": "custom_1766084600001",
+                    "name": "Alpine Retreat",
+                    "type": "Custom",
+                    "url": "https://www.booking.com/alpine-retreat-utah",
+                    "pricePerNight": 250,
+                    "beds": 2,
+                    "bathrooms": 1,
+                    "distanceToMountain": 2,
+                    "rating": 4.5,
+                    "amenities": [
+                      "fireplace",
+                      "kitchen",
+                      "wifi"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+                    "description": "Charming alpine retreat perfect for small groups",
+                    "rankingScore": 180,
+                    "pricePerPerson": 63,
+                    "isCustom": true,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 1
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 2
+            },
+            {
+              "id": "match_1766084662649_6",
+              "accommodation": {
+                "id": "utah_3_custom",
+                "name": "Ski Resort Townhouse",
+                "type": "Airbnb",
+                "pricePerNight": 380,
+                "beds": 4,
+                "bathrooms": 2,
+                "distanceToMountain": 0.5,
+                "rating": 4.6,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking",
+                  "washer_dryer"
+                ],
+                "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+                "description": "Modern townhouse steps from the slopes with all amenities.",
+                "rankingScore": 225,
+                "pricePerPerson": 95,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 2
+            }
+          ],
+          [
+            {
+              "id": "match_1766084662649_2_0",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084662649_1_0",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084662649_0",
+                      "accommodation": {
+                        "id": "utah_1",
+                        "name": "Cozy Ski Chalet near Snowbird",
+                        "type": "Airbnb",
+                        "pricePerNight": 280,
+                        "beds": 3,
+                        "bathrooms": 2,
+                        "distanceToMountain": 0.8,
+                        "rating": 4.8,
+                        "amenities": [
+                          "hot_tub",
+                          "ski_storage",
+                          "fireplace",
+                          "kitchen",
+                          "wifi",
+                          "parking"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+                        "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+                        "rankingScore": 237,
+                        "pricePerPerson": 70,
+                        "submissionCount": 2
+                      },
+                      "votes": 2,
+                      "round": 1
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084662649_1",
+                      "accommodation": {
+                        "id": "custom_1766084500001",
+                        "name": "Mountain View Lodge",
+                        "type": "Custom",
+                        "url": "https://www.vrbo.com/example-mountain-lodge",
+                        "pricePerNight": 320,
+                        "beds": 3,
+                        "bathrooms": 2,
+                        "distanceToMountain": 1.5,
+                        "rating": 4.7,
+                        "amenities": [
+                          "fireplace",
+                          "kitchen",
+                          "wifi",
+                          "parking"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+                        "description": "Cozy mountain lodge with great views",
+                        "rankingScore": 200,
+                        "pricePerPerson": 80,
+                        "isCustom": true,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 1
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 2
+                },
+                "accommodation2": {
+                  "id": "match_1766084662649_1_2",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084662649_2",
+                      "accommodation": {
+                        "id": "custom_1766076796881",
+                        "name": "Custom Accommodation",
+                        "type": "Custom",
+                        "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+                        "pricePerNight": 0,
+                        "beds": 0,
+                        "bathrooms": 0,
+                        "distanceToMountain": 0,
+                        "rating": 0,
+                        "amenities": [],
+                        "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+                        "description": "Custom accommodation added by user",
+                        "rankingScore": 0,
+                        "pricePerPerson": 0,
+                        "isCustom": true,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 1
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084662649_3",
+                      "accommodation": {
+                        "id": "utah_2",
+                        "name": "Luxury Condo - Solitude Village",
+                        "type": "Airbnb",
+                        "pricePerNight": 450,
+                        "beds": 4,
+                        "bathrooms": 3,
+                        "distanceToMountain": 0.2,
+                        "rating": 4.9,
+                        "amenities": [
+                          "hot_tub",
+                          "ski_storage",
+                          "kitchen",
+                          "wifi",
+                          "parking",
+                          "mountain_view"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+                        "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+                        "rankingScore": 239.5,
+                        "pricePerPerson": 113,
+                        "submissionCount": 2
+                      },
+                      "votes": 2,
+                      "round": 1
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 2
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 3
+            },
+            {
+              "id": "match_1766084662649_2_2",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084662649_1_4",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084662649_4",
+                      "accommodation": {
+                        "id": "utah_4_custom",
+                        "name": "Powder Mountain House",
+                        "type": "Airbnb",
+                        "pricePerNight": 420,
+                        "beds": 5,
+                        "bathrooms": 3,
+                        "distanceToMountain": 0.3,
+                        "rating": 4.9,
+                        "amenities": [
+                          "hot_tub",
+                          "ski_storage",
+                          "fireplace",
+                          "kitchen",
+                          "wifi",
+                          "parking",
+                          "mountain_view",
+                          "shuttle_service"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+                        "description": "Luxury house with shuttle service and incredible mountain views.",
+                        "rankingScore": 255,
+                        "pricePerPerson": 105,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 1
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084662649_5",
+                      "accommodation": {
+                        "id": "custom_1766084600001",
+                        "name": "Alpine Retreat",
+                        "type": "Custom",
+                        "url": "https://www.booking.com/alpine-retreat-utah",
+                        "pricePerNight": 250,
+                        "beds": 2,
+                        "bathrooms": 1,
+                        "distanceToMountain": 2,
+                        "rating": 4.5,
+                        "amenities": [
+                          "fireplace",
+                          "kitchen",
+                          "wifi"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+                        "description": "Charming alpine retreat perfect for small groups",
+                        "rankingScore": 180,
+                        "pricePerPerson": 63,
+                        "isCustom": true,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 1
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 2
+                },
+                "accommodation2": {
+                  "id": "match_1766084662649_6",
+                  "accommodation": {
+                    "id": "utah_3_custom",
+                    "name": "Ski Resort Townhouse",
+                    "type": "Airbnb",
+                    "pricePerNight": 380,
+                    "beds": 4,
+                    "bathrooms": 2,
+                    "distanceToMountain": 0.5,
+                    "rating": 4.6,
+                    "amenities": [
+                      "hot_tub",
+                      "ski_storage",
+                      "fireplace",
+                      "kitchen",
+                      "wifi",
+                      "parking",
+                      "washer_dryer"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+                    "description": "Modern townhouse steps from the slopes with all amenities.",
+                    "rankingScore": 225,
+                    "pricePerPerson": 95,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 2
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 3
+            }
+          ],
+          [
+            {
+              "id": "match_1766084662649_3_0",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084662649_2_0",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084662649_1_0",
+                      "matchup": {
+                        "accommodation1": {
+                          "id": "match_1766084662649_0",
+                          "accommodation": {
+                            "id": "utah_1",
+                            "name": "Cozy Ski Chalet near Snowbird",
+                            "type": "Airbnb",
+                            "pricePerNight": 280,
+                            "beds": 3,
+                            "bathrooms": 2,
+                            "distanceToMountain": 0.8,
+                            "rating": 4.8,
+                            "amenities": [
+                              "hot_tub",
+                              "ski_storage",
+                              "fireplace",
+                              "kitchen",
+                              "wifi",
+                              "parking"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+                            "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+                            "rankingScore": 237,
+                            "pricePerPerson": 70,
+                            "submissionCount": 2
+                          },
+                          "votes": 2,
+                          "round": 1
+                        },
+                        "accommodation2": {
+                          "id": "match_1766084662649_1",
+                          "accommodation": {
+                            "id": "custom_1766084500001",
+                            "name": "Mountain View Lodge",
+                            "type": "Custom",
+                            "url": "https://www.vrbo.com/example-mountain-lodge",
+                            "pricePerNight": 320,
+                            "beds": 3,
+                            "bathrooms": 2,
+                            "distanceToMountain": 1.5,
+                            "rating": 4.7,
+                            "amenities": [
+                              "fireplace",
+                              "kitchen",
+                              "wifi",
+                              "parking"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+                            "description": "Cozy mountain lodge with great views",
+                            "rankingScore": 200,
+                            "pricePerPerson": 80,
+                            "isCustom": true,
+                            "submissionCount": 1
+                          },
+                          "votes": 1,
+                          "round": 1
+                        },
+                        "votes1": 0,
+                        "votes2": 0,
+                        "winner": null
+                      },
+                      "round": 2
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084662649_1_2",
+                      "matchup": {
+                        "accommodation1": {
+                          "id": "match_1766084662649_2",
+                          "accommodation": {
+                            "id": "custom_1766076796881",
+                            "name": "Custom Accommodation",
+                            "type": "Custom",
+                            "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+                            "pricePerNight": 0,
+                            "beds": 0,
+                            "bathrooms": 0,
+                            "distanceToMountain": 0,
+                            "rating": 0,
+                            "amenities": [],
+                            "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+                            "description": "Custom accommodation added by user",
+                            "rankingScore": 0,
+                            "pricePerPerson": 0,
+                            "isCustom": true,
+                            "submissionCount": 1
+                          },
+                          "votes": 1,
+                          "round": 1
+                        },
+                        "accommodation2": {
+                          "id": "match_1766084662649_3",
+                          "accommodation": {
+                            "id": "utah_2",
+                            "name": "Luxury Condo - Solitude Village",
+                            "type": "Airbnb",
+                            "pricePerNight": 450,
+                            "beds": 4,
+                            "bathrooms": 3,
+                            "distanceToMountain": 0.2,
+                            "rating": 4.9,
+                            "amenities": [
+                              "hot_tub",
+                              "ski_storage",
+                              "kitchen",
+                              "wifi",
+                              "parking",
+                              "mountain_view"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+                            "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+                            "rankingScore": 239.5,
+                            "pricePerPerson": 113,
+                            "submissionCount": 2
+                          },
+                          "votes": 2,
+                          "round": 1
+                        },
+                        "votes1": 0,
+                        "votes2": 0,
+                        "winner": null
+                      },
+                      "round": 2
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 3
+                },
+                "accommodation2": {
+                  "id": "match_1766084662649_2_2",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084662649_1_4",
+                      "matchup": {
+                        "accommodation1": {
+                          "id": "match_1766084662649_4",
+                          "accommodation": {
+                            "id": "utah_4_custom",
+                            "name": "Powder Mountain House",
+                            "type": "Airbnb",
+                            "pricePerNight": 420,
+                            "beds": 5,
+                            "bathrooms": 3,
+                            "distanceToMountain": 0.3,
+                            "rating": 4.9,
+                            "amenities": [
+                              "hot_tub",
+                              "ski_storage",
+                              "fireplace",
+                              "kitchen",
+                              "wifi",
+                              "parking",
+                              "mountain_view",
+                              "shuttle_service"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+                            "description": "Luxury house with shuttle service and incredible mountain views.",
+                            "rankingScore": 255,
+                            "pricePerPerson": 105,
+                            "submissionCount": 1
+                          },
+                          "votes": 1,
+                          "round": 1
+                        },
+                        "accommodation2": {
+                          "id": "match_1766084662649_5",
+                          "accommodation": {
+                            "id": "custom_1766084600001",
+                            "name": "Alpine Retreat",
+                            "type": "Custom",
+                            "url": "https://www.booking.com/alpine-retreat-utah",
+                            "pricePerNight": 250,
+                            "beds": 2,
+                            "bathrooms": 1,
+                            "distanceToMountain": 2,
+                            "rating": 4.5,
+                            "amenities": [
+                              "fireplace",
+                              "kitchen",
+                              "wifi"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+                            "description": "Charming alpine retreat perfect for small groups",
+                            "rankingScore": 180,
+                            "pricePerPerson": 63,
+                            "isCustom": true,
+                            "submissionCount": 1
+                          },
+                          "votes": 1,
+                          "round": 1
+                        },
+                        "votes1": 0,
+                        "votes2": 0,
+                        "winner": null
+                      },
+                      "round": 2
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084662649_6",
+                      "accommodation": {
+                        "id": "utah_3_custom",
+                        "name": "Ski Resort Townhouse",
+                        "type": "Airbnb",
+                        "pricePerNight": 380,
+                        "beds": 4,
+                        "bathrooms": 2,
+                        "distanceToMountain": 0.5,
+                        "rating": 4.6,
+                        "amenities": [
+                          "hot_tub",
+                          "ski_storage",
+                          "fireplace",
+                          "kitchen",
+                          "wifi",
+                          "parking",
+                          "washer_dryer"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+                        "description": "Modern townhouse steps from the slopes with all amenities.",
+                        "rankingScore": 225,
+                        "pricePerPerson": 95,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 2
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 3
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 4
+            }
+          ]
+        ],
+        "totalRounds": 4,
+        "status": "ready"
+      },
+      "createdAt": "2025-12-18T19:04:22.649Z",
+      "status": "active",
+      "currentRound": 1
+    },
+    {
+      "id": "tournament_1766084736021",
+      "destination": "Utah",
+      "bracket": {
+        "rounds": [
+          [
+            {
+              "id": "match_1766084736021_0",
+              "accommodation": {
+                "id": "utah_4_custom",
+                "name": "Powder Mountain House",
+                "type": "Airbnb",
+                "pricePerNight": 420,
+                "beds": 5,
+                "bathrooms": 3,
+                "distanceToMountain": 0.3,
+                "rating": 4.9,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking",
+                  "mountain_view",
+                  "shuttle_service"
+                ],
+                "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+                "description": "Luxury house with shuttle service and incredible mountain views.",
+                "rankingScore": 255,
+                "pricePerPerson": 105,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            },
+            {
+              "id": "match_1766084736021_1",
+              "accommodation": {
+                "id": "custom_1766076796881",
+                "name": "Custom Accommodation",
+                "type": "Custom",
+                "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+                "pricePerNight": 0,
+                "beds": 0,
+                "bathrooms": 0,
+                "distanceToMountain": 0,
+                "rating": 0,
+                "amenities": [],
+                "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+                "description": "Custom accommodation added by user",
+                "rankingScore": 0,
+                "pricePerPerson": 0,
+                "isCustom": true,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            },
+            {
+              "id": "match_1766084736021_2",
+              "accommodation": {
+                "id": "utah_1",
+                "name": "Cozy Ski Chalet near Snowbird",
+                "type": "Airbnb",
+                "pricePerNight": 280,
+                "beds": 3,
+                "bathrooms": 2,
+                "distanceToMountain": 0.8,
+                "rating": 4.8,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking"
+                ],
+                "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+                "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+                "rankingScore": 237,
+                "pricePerPerson": 70,
+                "submissionCount": 2
+              },
+              "votes": 2,
+              "round": 1
+            },
+            {
+              "id": "match_1766084736021_3",
+              "accommodation": {
+                "id": "utah_3_custom",
+                "name": "Ski Resort Townhouse",
+                "type": "Airbnb",
+                "pricePerNight": 380,
+                "beds": 4,
+                "bathrooms": 2,
+                "distanceToMountain": 0.5,
+                "rating": 4.6,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking",
+                  "washer_dryer"
+                ],
+                "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+                "description": "Modern townhouse steps from the slopes with all amenities.",
+                "rankingScore": 225,
+                "pricePerPerson": 95,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            },
+            {
+              "id": "match_1766084736021_4",
+              "accommodation": {
+                "id": "utah_2",
+                "name": "Luxury Condo - Solitude Village",
+                "type": "Airbnb",
+                "pricePerNight": 450,
+                "beds": 4,
+                "bathrooms": 3,
+                "distanceToMountain": 0.2,
+                "rating": 4.9,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "kitchen",
+                  "wifi",
+                  "parking",
+                  "mountain_view"
+                ],
+                "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+                "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+                "rankingScore": 239.5,
+                "pricePerPerson": 113,
+                "submissionCount": 2
+              },
+              "votes": 2,
+              "round": 1
+            },
+            {
+              "id": "match_1766084736021_5",
+              "accommodation": {
+                "id": "custom_1766084500001",
+                "name": "Mountain View Lodge",
+                "type": "Custom",
+                "url": "https://www.vrbo.com/example-mountain-lodge",
+                "pricePerNight": 320,
+                "beds": 3,
+                "bathrooms": 2,
+                "distanceToMountain": 1.5,
+                "rating": 4.7,
+                "amenities": [
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking"
+                ],
+                "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+                "description": "Cozy mountain lodge with great views",
+                "rankingScore": 200,
+                "pricePerPerson": 80,
+                "isCustom": true,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            },
+            {
+              "id": "match_1766084736021_6",
+              "accommodation": {
+                "id": "custom_1766084600001",
+                "name": "Alpine Retreat",
+                "type": "Custom",
+                "url": "https://www.booking.com/alpine-retreat-utah",
+                "pricePerNight": 250,
+                "beds": 2,
+                "bathrooms": 1,
+                "distanceToMountain": 2,
+                "rating": 4.5,
+                "amenities": [
+                  "fireplace",
+                  "kitchen",
+                  "wifi"
+                ],
+                "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+                "description": "Charming alpine retreat perfect for small groups",
+                "rankingScore": 180,
+                "pricePerPerson": 63,
+                "isCustom": true,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            }
+          ],
+          [
+            {
+              "id": "match_1766084736021_1_0",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084736021_0",
+                  "accommodation": {
+                    "id": "utah_4_custom",
+                    "name": "Powder Mountain House",
+                    "type": "Airbnb",
+                    "pricePerNight": 420,
+                    "beds": 5,
+                    "bathrooms": 3,
+                    "distanceToMountain": 0.3,
+                    "rating": 4.9,
+                    "amenities": [
+                      "hot_tub",
+                      "ski_storage",
+                      "fireplace",
+                      "kitchen",
+                      "wifi",
+                      "parking",
+                      "mountain_view",
+                      "shuttle_service"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+                    "description": "Luxury house with shuttle service and incredible mountain views.",
+                    "rankingScore": 255,
+                    "pricePerPerson": 105,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 1
+                },
+                "accommodation2": {
+                  "id": "match_1766084736021_1",
+                  "accommodation": {
+                    "id": "custom_1766076796881",
+                    "name": "Custom Accommodation",
+                    "type": "Custom",
+                    "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+                    "pricePerNight": 0,
+                    "beds": 0,
+                    "bathrooms": 0,
+                    "distanceToMountain": 0,
+                    "rating": 0,
+                    "amenities": [],
+                    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+                    "description": "Custom accommodation added by user",
+                    "rankingScore": 0,
+                    "pricePerPerson": 0,
+                    "isCustom": true,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 1
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 2
+            },
+            {
+              "id": "match_1766084736021_1_2",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084736021_2",
+                  "accommodation": {
+                    "id": "utah_1",
+                    "name": "Cozy Ski Chalet near Snowbird",
+                    "type": "Airbnb",
+                    "pricePerNight": 280,
+                    "beds": 3,
+                    "bathrooms": 2,
+                    "distanceToMountain": 0.8,
+                    "rating": 4.8,
+                    "amenities": [
+                      "hot_tub",
+                      "ski_storage",
+                      "fireplace",
+                      "kitchen",
+                      "wifi",
+                      "parking"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+                    "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+                    "rankingScore": 237,
+                    "pricePerPerson": 70,
+                    "submissionCount": 2
+                  },
+                  "votes": 2,
+                  "round": 1
+                },
+                "accommodation2": {
+                  "id": "match_1766084736021_3",
+                  "accommodation": {
+                    "id": "utah_3_custom",
+                    "name": "Ski Resort Townhouse",
+                    "type": "Airbnb",
+                    "pricePerNight": 380,
+                    "beds": 4,
+                    "bathrooms": 2,
+                    "distanceToMountain": 0.5,
+                    "rating": 4.6,
+                    "amenities": [
+                      "hot_tub",
+                      "ski_storage",
+                      "fireplace",
+                      "kitchen",
+                      "wifi",
+                      "parking",
+                      "washer_dryer"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+                    "description": "Modern townhouse steps from the slopes with all amenities.",
+                    "rankingScore": 225,
+                    "pricePerPerson": 95,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 1
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 2
+            },
+            {
+              "id": "match_1766084736021_1_4",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084736021_4",
+                  "accommodation": {
+                    "id": "utah_2",
+                    "name": "Luxury Condo - Solitude Village",
+                    "type": "Airbnb",
+                    "pricePerNight": 450,
+                    "beds": 4,
+                    "bathrooms": 3,
+                    "distanceToMountain": 0.2,
+                    "rating": 4.9,
+                    "amenities": [
+                      "hot_tub",
+                      "ski_storage",
+                      "kitchen",
+                      "wifi",
+                      "parking",
+                      "mountain_view"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+                    "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+                    "rankingScore": 239.5,
+                    "pricePerPerson": 113,
+                    "submissionCount": 2
+                  },
+                  "votes": 2,
+                  "round": 1
+                },
+                "accommodation2": {
+                  "id": "match_1766084736021_5",
+                  "accommodation": {
+                    "id": "custom_1766084500001",
+                    "name": "Mountain View Lodge",
+                    "type": "Custom",
+                    "url": "https://www.vrbo.com/example-mountain-lodge",
+                    "pricePerNight": 320,
+                    "beds": 3,
+                    "bathrooms": 2,
+                    "distanceToMountain": 1.5,
+                    "rating": 4.7,
+                    "amenities": [
+                      "fireplace",
+                      "kitchen",
+                      "wifi",
+                      "parking"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+                    "description": "Cozy mountain lodge with great views",
+                    "rankingScore": 200,
+                    "pricePerPerson": 80,
+                    "isCustom": true,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 1
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 2
+            },
+            {
+              "id": "match_1766084736021_6",
+              "accommodation": {
+                "id": "custom_1766084600001",
+                "name": "Alpine Retreat",
+                "type": "Custom",
+                "url": "https://www.booking.com/alpine-retreat-utah",
+                "pricePerNight": 250,
+                "beds": 2,
+                "bathrooms": 1,
+                "distanceToMountain": 2,
+                "rating": 4.5,
+                "amenities": [
+                  "fireplace",
+                  "kitchen",
+                  "wifi"
+                ],
+                "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+                "description": "Charming alpine retreat perfect for small groups",
+                "rankingScore": 180,
+                "pricePerPerson": 63,
+                "isCustom": true,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 2
+            }
+          ],
+          [
+            {
+              "id": "match_1766084736021_2_0",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084736021_1_0",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084736021_0",
+                      "accommodation": {
+                        "id": "utah_4_custom",
+                        "name": "Powder Mountain House",
+                        "type": "Airbnb",
+                        "pricePerNight": 420,
+                        "beds": 5,
+                        "bathrooms": 3,
+                        "distanceToMountain": 0.3,
+                        "rating": 4.9,
+                        "amenities": [
+                          "hot_tub",
+                          "ski_storage",
+                          "fireplace",
+                          "kitchen",
+                          "wifi",
+                          "parking",
+                          "mountain_view",
+                          "shuttle_service"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+                        "description": "Luxury house with shuttle service and incredible mountain views.",
+                        "rankingScore": 255,
+                        "pricePerPerson": 105,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 1
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084736021_1",
+                      "accommodation": {
+                        "id": "custom_1766076796881",
+                        "name": "Custom Accommodation",
+                        "type": "Custom",
+                        "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+                        "pricePerNight": 0,
+                        "beds": 0,
+                        "bathrooms": 0,
+                        "distanceToMountain": 0,
+                        "rating": 0,
+                        "amenities": [],
+                        "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+                        "description": "Custom accommodation added by user",
+                        "rankingScore": 0,
+                        "pricePerPerson": 0,
+                        "isCustom": true,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 1
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 2
+                },
+                "accommodation2": {
+                  "id": "match_1766084736021_1_2",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084736021_2",
+                      "accommodation": {
+                        "id": "utah_1",
+                        "name": "Cozy Ski Chalet near Snowbird",
+                        "type": "Airbnb",
+                        "pricePerNight": 280,
+                        "beds": 3,
+                        "bathrooms": 2,
+                        "distanceToMountain": 0.8,
+                        "rating": 4.8,
+                        "amenities": [
+                          "hot_tub",
+                          "ski_storage",
+                          "fireplace",
+                          "kitchen",
+                          "wifi",
+                          "parking"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+                        "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+                        "rankingScore": 237,
+                        "pricePerPerson": 70,
+                        "submissionCount": 2
+                      },
+                      "votes": 2,
+                      "round": 1
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084736021_3",
+                      "accommodation": {
+                        "id": "utah_3_custom",
+                        "name": "Ski Resort Townhouse",
+                        "type": "Airbnb",
+                        "pricePerNight": 380,
+                        "beds": 4,
+                        "bathrooms": 2,
+                        "distanceToMountain": 0.5,
+                        "rating": 4.6,
+                        "amenities": [
+                          "hot_tub",
+                          "ski_storage",
+                          "fireplace",
+                          "kitchen",
+                          "wifi",
+                          "parking",
+                          "washer_dryer"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+                        "description": "Modern townhouse steps from the slopes with all amenities.",
+                        "rankingScore": 225,
+                        "pricePerPerson": 95,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 1
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 2
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 3
+            },
+            {
+              "id": "match_1766084736021_2_2",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084736021_1_4",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084736021_4",
+                      "accommodation": {
+                        "id": "utah_2",
+                        "name": "Luxury Condo - Solitude Village",
+                        "type": "Airbnb",
+                        "pricePerNight": 450,
+                        "beds": 4,
+                        "bathrooms": 3,
+                        "distanceToMountain": 0.2,
+                        "rating": 4.9,
+                        "amenities": [
+                          "hot_tub",
+                          "ski_storage",
+                          "kitchen",
+                          "wifi",
+                          "parking",
+                          "mountain_view"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+                        "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+                        "rankingScore": 239.5,
+                        "pricePerPerson": 113,
+                        "submissionCount": 2
+                      },
+                      "votes": 2,
+                      "round": 1
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084736021_5",
+                      "accommodation": {
+                        "id": "custom_1766084500001",
+                        "name": "Mountain View Lodge",
+                        "type": "Custom",
+                        "url": "https://www.vrbo.com/example-mountain-lodge",
+                        "pricePerNight": 320,
+                        "beds": 3,
+                        "bathrooms": 2,
+                        "distanceToMountain": 1.5,
+                        "rating": 4.7,
+                        "amenities": [
+                          "fireplace",
+                          "kitchen",
+                          "wifi",
+                          "parking"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+                        "description": "Cozy mountain lodge with great views",
+                        "rankingScore": 200,
+                        "pricePerPerson": 80,
+                        "isCustom": true,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 1
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 2
+                },
+                "accommodation2": {
+                  "id": "match_1766084736021_6",
+                  "accommodation": {
+                    "id": "custom_1766084600001",
+                    "name": "Alpine Retreat",
+                    "type": "Custom",
+                    "url": "https://www.booking.com/alpine-retreat-utah",
+                    "pricePerNight": 250,
+                    "beds": 2,
+                    "bathrooms": 1,
+                    "distanceToMountain": 2,
+                    "rating": 4.5,
+                    "amenities": [
+                      "fireplace",
+                      "kitchen",
+                      "wifi"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+                    "description": "Charming alpine retreat perfect for small groups",
+                    "rankingScore": 180,
+                    "pricePerPerson": 63,
+                    "isCustom": true,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 2
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 3
+            }
+          ],
+          [
+            {
+              "id": "match_1766084736021_3_0",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084736021_2_0",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084736021_1_0",
+                      "matchup": {
+                        "accommodation1": {
+                          "id": "match_1766084736021_0",
+                          "accommodation": {
+                            "id": "utah_4_custom",
+                            "name": "Powder Mountain House",
+                            "type": "Airbnb",
+                            "pricePerNight": 420,
+                            "beds": 5,
+                            "bathrooms": 3,
+                            "distanceToMountain": 0.3,
+                            "rating": 4.9,
+                            "amenities": [
+                              "hot_tub",
+                              "ski_storage",
+                              "fireplace",
+                              "kitchen",
+                              "wifi",
+                              "parking",
+                              "mountain_view",
+                              "shuttle_service"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+                            "description": "Luxury house with shuttle service and incredible mountain views.",
+                            "rankingScore": 255,
+                            "pricePerPerson": 105,
+                            "submissionCount": 1
+                          },
+                          "votes": 1,
+                          "round": 1
+                        },
+                        "accommodation2": {
+                          "id": "match_1766084736021_1",
+                          "accommodation": {
+                            "id": "custom_1766076796881",
+                            "name": "Custom Accommodation",
+                            "type": "Custom",
+                            "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+                            "pricePerNight": 0,
+                            "beds": 0,
+                            "bathrooms": 0,
+                            "distanceToMountain": 0,
+                            "rating": 0,
+                            "amenities": [],
+                            "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+                            "description": "Custom accommodation added by user",
+                            "rankingScore": 0,
+                            "pricePerPerson": 0,
+                            "isCustom": true,
+                            "submissionCount": 1
+                          },
+                          "votes": 1,
+                          "round": 1
+                        },
+                        "votes1": 0,
+                        "votes2": 0,
+                        "winner": null
+                      },
+                      "round": 2
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084736021_1_2",
+                      "matchup": {
+                        "accommodation1": {
+                          "id": "match_1766084736021_2",
+                          "accommodation": {
+                            "id": "utah_1",
+                            "name": "Cozy Ski Chalet near Snowbird",
+                            "type": "Airbnb",
+                            "pricePerNight": 280,
+                            "beds": 3,
+                            "bathrooms": 2,
+                            "distanceToMountain": 0.8,
+                            "rating": 4.8,
+                            "amenities": [
+                              "hot_tub",
+                              "ski_storage",
+                              "fireplace",
+                              "kitchen",
+                              "wifi",
+                              "parking"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+                            "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+                            "rankingScore": 237,
+                            "pricePerPerson": 70,
+                            "submissionCount": 2
+                          },
+                          "votes": 2,
+                          "round": 1
+                        },
+                        "accommodation2": {
+                          "id": "match_1766084736021_3",
+                          "accommodation": {
+                            "id": "utah_3_custom",
+                            "name": "Ski Resort Townhouse",
+                            "type": "Airbnb",
+                            "pricePerNight": 380,
+                            "beds": 4,
+                            "bathrooms": 2,
+                            "distanceToMountain": 0.5,
+                            "rating": 4.6,
+                            "amenities": [
+                              "hot_tub",
+                              "ski_storage",
+                              "fireplace",
+                              "kitchen",
+                              "wifi",
+                              "parking",
+                              "washer_dryer"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+                            "description": "Modern townhouse steps from the slopes with all amenities.",
+                            "rankingScore": 225,
+                            "pricePerPerson": 95,
+                            "submissionCount": 1
+                          },
+                          "votes": 1,
+                          "round": 1
+                        },
+                        "votes1": 0,
+                        "votes2": 0,
+                        "winner": null
+                      },
+                      "round": 2
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 3
+                },
+                "accommodation2": {
+                  "id": "match_1766084736021_2_2",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084736021_1_4",
+                      "matchup": {
+                        "accommodation1": {
+                          "id": "match_1766084736021_4",
+                          "accommodation": {
+                            "id": "utah_2",
+                            "name": "Luxury Condo - Solitude Village",
+                            "type": "Airbnb",
+                            "pricePerNight": 450,
+                            "beds": 4,
+                            "bathrooms": 3,
+                            "distanceToMountain": 0.2,
+                            "rating": 4.9,
+                            "amenities": [
+                              "hot_tub",
+                              "ski_storage",
+                              "kitchen",
+                              "wifi",
+                              "parking",
+                              "mountain_view"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+                            "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+                            "rankingScore": 239.5,
+                            "pricePerPerson": 113,
+                            "submissionCount": 2
+                          },
+                          "votes": 2,
+                          "round": 1
+                        },
+                        "accommodation2": {
+                          "id": "match_1766084736021_5",
+                          "accommodation": {
+                            "id": "custom_1766084500001",
+                            "name": "Mountain View Lodge",
+                            "type": "Custom",
+                            "url": "https://www.vrbo.com/example-mountain-lodge",
+                            "pricePerNight": 320,
+                            "beds": 3,
+                            "bathrooms": 2,
+                            "distanceToMountain": 1.5,
+                            "rating": 4.7,
+                            "amenities": [
+                              "fireplace",
+                              "kitchen",
+                              "wifi",
+                              "parking"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+                            "description": "Cozy mountain lodge with great views",
+                            "rankingScore": 200,
+                            "pricePerPerson": 80,
+                            "isCustom": true,
+                            "submissionCount": 1
+                          },
+                          "votes": 1,
+                          "round": 1
+                        },
+                        "votes1": 0,
+                        "votes2": 0,
+                        "winner": null
+                      },
+                      "round": 2
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084736021_6",
+                      "accommodation": {
+                        "id": "custom_1766084600001",
+                        "name": "Alpine Retreat",
+                        "type": "Custom",
+                        "url": "https://www.booking.com/alpine-retreat-utah",
+                        "pricePerNight": 250,
+                        "beds": 2,
+                        "bathrooms": 1,
+                        "distanceToMountain": 2,
+                        "rating": 4.5,
+                        "amenities": [
+                          "fireplace",
+                          "kitchen",
+                          "wifi"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+                        "description": "Charming alpine retreat perfect for small groups",
+                        "rankingScore": 180,
+                        "pricePerPerson": 63,
+                        "isCustom": true,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 2
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 3
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 4
+            }
+          ]
+        ],
+        "totalRounds": 4,
+        "status": "ready"
+      },
+      "createdAt": "2025-12-18T19:05:36.021Z",
+      "status": "active",
+      "currentRound": 2
+    },
+    {
+      "id": "tournament_1766084758401",
+      "destination": "Utah",
+      "bracket": {
+        "rounds": [
+          [
+            {
+              "id": "match_1766084758401_0",
+              "accommodation": {
+                "id": "utah_4_custom",
+                "name": "Powder Mountain House",
+                "type": "Airbnb",
+                "pricePerNight": 420,
+                "beds": 5,
+                "bathrooms": 3,
+                "distanceToMountain": 0.3,
+                "rating": 4.9,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking",
+                  "mountain_view",
+                  "shuttle_service"
+                ],
+                "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+                "description": "Luxury house with shuttle service and incredible mountain views.",
+                "rankingScore": 255,
+                "pricePerPerson": 105,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            },
+            {
+              "id": "match_1766084758401_1",
+              "accommodation": {
+                "id": "custom_1766076796881",
+                "name": "Custom Accommodation",
+                "type": "Custom",
+                "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+                "pricePerNight": 0,
+                "beds": 0,
+                "bathrooms": 0,
+                "distanceToMountain": 0,
+                "rating": 0,
+                "amenities": [],
+                "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+                "description": "Custom accommodation added by user",
+                "rankingScore": 0,
+                "pricePerPerson": 0,
+                "isCustom": true,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            },
+            {
+              "id": "match_1766084758401_2",
+              "accommodation": {
+                "id": "utah_1",
+                "name": "Cozy Ski Chalet near Snowbird",
+                "type": "Airbnb",
+                "pricePerNight": 280,
+                "beds": 3,
+                "bathrooms": 2,
+                "distanceToMountain": 0.8,
+                "rating": 4.8,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking"
+                ],
+                "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+                "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+                "rankingScore": 237,
+                "pricePerPerson": 70,
+                "submissionCount": 2
+              },
+              "votes": 2,
+              "round": 1
+            },
+            {
+              "id": "match_1766084758401_3",
+              "accommodation": {
+                "id": "utah_3_custom",
+                "name": "Ski Resort Townhouse",
+                "type": "Airbnb",
+                "pricePerNight": 380,
+                "beds": 4,
+                "bathrooms": 2,
+                "distanceToMountain": 0.5,
+                "rating": 4.6,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking",
+                  "washer_dryer"
+                ],
+                "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+                "description": "Modern townhouse steps from the slopes with all amenities.",
+                "rankingScore": 225,
+                "pricePerPerson": 95,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            },
+            {
+              "id": "match_1766084758401_4",
+              "accommodation": {
+                "id": "utah_2",
+                "name": "Luxury Condo - Solitude Village",
+                "type": "Airbnb",
+                "pricePerNight": 450,
+                "beds": 4,
+                "bathrooms": 3,
+                "distanceToMountain": 0.2,
+                "rating": 4.9,
+                "amenities": [
+                  "hot_tub",
+                  "ski_storage",
+                  "kitchen",
+                  "wifi",
+                  "parking",
+                  "mountain_view"
+                ],
+                "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+                "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+                "rankingScore": 239.5,
+                "pricePerPerson": 113,
+                "submissionCount": 2
+              },
+              "votes": 2,
+              "round": 1
+            },
+            {
+              "id": "match_1766084758401_5",
+              "accommodation": {
+                "id": "custom_1766084500001",
+                "name": "Mountain View Lodge",
+                "type": "Custom",
+                "url": "https://www.vrbo.com/example-mountain-lodge",
+                "pricePerNight": 320,
+                "beds": 3,
+                "bathrooms": 2,
+                "distanceToMountain": 1.5,
+                "rating": 4.7,
+                "amenities": [
+                  "fireplace",
+                  "kitchen",
+                  "wifi",
+                  "parking"
+                ],
+                "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+                "description": "Cozy mountain lodge with great views",
+                "rankingScore": 200,
+                "pricePerPerson": 80,
+                "isCustom": true,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            },
+            {
+              "id": "match_1766084758401_6",
+              "accommodation": {
+                "id": "custom_1766084600001",
+                "name": "Alpine Retreat",
+                "type": "Custom",
+                "url": "https://www.booking.com/alpine-retreat-utah",
+                "pricePerNight": 250,
+                "beds": 2,
+                "bathrooms": 1,
+                "distanceToMountain": 2,
+                "rating": 4.5,
+                "amenities": [
+                  "fireplace",
+                  "kitchen",
+                  "wifi"
+                ],
+                "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+                "description": "Charming alpine retreat perfect for small groups",
+                "rankingScore": 180,
+                "pricePerPerson": 63,
+                "isCustom": true,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 1
+            }
+          ],
+          [
+            {
+              "id": "match_1766084758401_1_0",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084758401_0",
+                  "accommodation": {
+                    "id": "utah_4_custom",
+                    "name": "Powder Mountain House",
+                    "type": "Airbnb",
+                    "pricePerNight": 420,
+                    "beds": 5,
+                    "bathrooms": 3,
+                    "distanceToMountain": 0.3,
+                    "rating": 4.9,
+                    "amenities": [
+                      "hot_tub",
+                      "ski_storage",
+                      "fireplace",
+                      "kitchen",
+                      "wifi",
+                      "parking",
+                      "mountain_view",
+                      "shuttle_service"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+                    "description": "Luxury house with shuttle service and incredible mountain views.",
+                    "rankingScore": 255,
+                    "pricePerPerson": 105,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 1
+                },
+                "accommodation2": {
+                  "id": "match_1766084758401_1",
+                  "accommodation": {
+                    "id": "custom_1766076796881",
+                    "name": "Custom Accommodation",
+                    "type": "Custom",
+                    "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+                    "pricePerNight": 0,
+                    "beds": 0,
+                    "bathrooms": 0,
+                    "distanceToMountain": 0,
+                    "rating": 0,
+                    "amenities": [],
+                    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+                    "description": "Custom accommodation added by user",
+                    "rankingScore": 0,
+                    "pricePerPerson": 0,
+                    "isCustom": true,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 1
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 2
+            },
+            {
+              "id": "match_1766084758401_1_2",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084758401_2",
+                  "accommodation": {
+                    "id": "utah_1",
+                    "name": "Cozy Ski Chalet near Snowbird",
+                    "type": "Airbnb",
+                    "pricePerNight": 280,
+                    "beds": 3,
+                    "bathrooms": 2,
+                    "distanceToMountain": 0.8,
+                    "rating": 4.8,
+                    "amenities": [
+                      "hot_tub",
+                      "ski_storage",
+                      "fireplace",
+                      "kitchen",
+                      "wifi",
+                      "parking"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+                    "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+                    "rankingScore": 237,
+                    "pricePerPerson": 70,
+                    "submissionCount": 2
+                  },
+                  "votes": 2,
+                  "round": 1
+                },
+                "accommodation2": {
+                  "id": "match_1766084758401_3",
+                  "accommodation": {
+                    "id": "utah_3_custom",
+                    "name": "Ski Resort Townhouse",
+                    "type": "Airbnb",
+                    "pricePerNight": 380,
+                    "beds": 4,
+                    "bathrooms": 2,
+                    "distanceToMountain": 0.5,
+                    "rating": 4.6,
+                    "amenities": [
+                      "hot_tub",
+                      "ski_storage",
+                      "fireplace",
+                      "kitchen",
+                      "wifi",
+                      "parking",
+                      "washer_dryer"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+                    "description": "Modern townhouse steps from the slopes with all amenities.",
+                    "rankingScore": 225,
+                    "pricePerPerson": 95,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 1
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 2
+            },
+            {
+              "id": "match_1766084758401_1_4",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084758401_4",
+                  "accommodation": {
+                    "id": "utah_2",
+                    "name": "Luxury Condo - Solitude Village",
+                    "type": "Airbnb",
+                    "pricePerNight": 450,
+                    "beds": 4,
+                    "bathrooms": 3,
+                    "distanceToMountain": 0.2,
+                    "rating": 4.9,
+                    "amenities": [
+                      "hot_tub",
+                      "ski_storage",
+                      "kitchen",
+                      "wifi",
+                      "parking",
+                      "mountain_view"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+                    "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+                    "rankingScore": 239.5,
+                    "pricePerPerson": 113,
+                    "submissionCount": 2
+                  },
+                  "votes": 2,
+                  "round": 1
+                },
+                "accommodation2": {
+                  "id": "match_1766084758401_5",
+                  "accommodation": {
+                    "id": "custom_1766084500001",
+                    "name": "Mountain View Lodge",
+                    "type": "Custom",
+                    "url": "https://www.vrbo.com/example-mountain-lodge",
+                    "pricePerNight": 320,
+                    "beds": 3,
+                    "bathrooms": 2,
+                    "distanceToMountain": 1.5,
+                    "rating": 4.7,
+                    "amenities": [
+                      "fireplace",
+                      "kitchen",
+                      "wifi",
+                      "parking"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+                    "description": "Cozy mountain lodge with great views",
+                    "rankingScore": 200,
+                    "pricePerPerson": 80,
+                    "isCustom": true,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 1
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 2
+            },
+            {
+              "id": "match_1766084758401_6",
+              "accommodation": {
+                "id": "custom_1766084600001",
+                "name": "Alpine Retreat",
+                "type": "Custom",
+                "url": "https://www.booking.com/alpine-retreat-utah",
+                "pricePerNight": 250,
+                "beds": 2,
+                "bathrooms": 1,
+                "distanceToMountain": 2,
+                "rating": 4.5,
+                "amenities": [
+                  "fireplace",
+                  "kitchen",
+                  "wifi"
+                ],
+                "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+                "description": "Charming alpine retreat perfect for small groups",
+                "rankingScore": 180,
+                "pricePerPerson": 63,
+                "isCustom": true,
+                "submissionCount": 1
+              },
+              "votes": 1,
+              "round": 2
+            }
+          ],
+          [
+            {
+              "id": "match_1766084758401_2_0",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084758401_1_0",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084758401_0",
+                      "accommodation": {
+                        "id": "utah_4_custom",
+                        "name": "Powder Mountain House",
+                        "type": "Airbnb",
+                        "pricePerNight": 420,
+                        "beds": 5,
+                        "bathrooms": 3,
+                        "distanceToMountain": 0.3,
+                        "rating": 4.9,
+                        "amenities": [
+                          "hot_tub",
+                          "ski_storage",
+                          "fireplace",
+                          "kitchen",
+                          "wifi",
+                          "parking",
+                          "mountain_view",
+                          "shuttle_service"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+                        "description": "Luxury house with shuttle service and incredible mountain views.",
+                        "rankingScore": 255,
+                        "pricePerPerson": 105,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 1
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084758401_1",
+                      "accommodation": {
+                        "id": "custom_1766076796881",
+                        "name": "Custom Accommodation",
+                        "type": "Custom",
+                        "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+                        "pricePerNight": 0,
+                        "beds": 0,
+                        "bathrooms": 0,
+                        "distanceToMountain": 0,
+                        "rating": 0,
+                        "amenities": [],
+                        "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+                        "description": "Custom accommodation added by user",
+                        "rankingScore": 0,
+                        "pricePerPerson": 0,
+                        "isCustom": true,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 1
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 2
+                },
+                "accommodation2": {
+                  "id": "match_1766084758401_1_2",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084758401_2",
+                      "accommodation": {
+                        "id": "utah_1",
+                        "name": "Cozy Ski Chalet near Snowbird",
+                        "type": "Airbnb",
+                        "pricePerNight": 280,
+                        "beds": 3,
+                        "bathrooms": 2,
+                        "distanceToMountain": 0.8,
+                        "rating": 4.8,
+                        "amenities": [
+                          "hot_tub",
+                          "ski_storage",
+                          "fireplace",
+                          "kitchen",
+                          "wifi",
+                          "parking"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+                        "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+                        "rankingScore": 237,
+                        "pricePerPerson": 70,
+                        "submissionCount": 2
+                      },
+                      "votes": 2,
+                      "round": 1
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084758401_3",
+                      "accommodation": {
+                        "id": "utah_3_custom",
+                        "name": "Ski Resort Townhouse",
+                        "type": "Airbnb",
+                        "pricePerNight": 380,
+                        "beds": 4,
+                        "bathrooms": 2,
+                        "distanceToMountain": 0.5,
+                        "rating": 4.6,
+                        "amenities": [
+                          "hot_tub",
+                          "ski_storage",
+                          "fireplace",
+                          "kitchen",
+                          "wifi",
+                          "parking",
+                          "washer_dryer"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+                        "description": "Modern townhouse steps from the slopes with all amenities.",
+                        "rankingScore": 225,
+                        "pricePerPerson": 95,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 1
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 2
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 3
+            },
+            {
+              "id": "match_1766084758401_2_2",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084758401_1_4",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084758401_4",
+                      "accommodation": {
+                        "id": "utah_2",
+                        "name": "Luxury Condo - Solitude Village",
+                        "type": "Airbnb",
+                        "pricePerNight": 450,
+                        "beds": 4,
+                        "bathrooms": 3,
+                        "distanceToMountain": 0.2,
+                        "rating": 4.9,
+                        "amenities": [
+                          "hot_tub",
+                          "ski_storage",
+                          "kitchen",
+                          "wifi",
+                          "parking",
+                          "mountain_view"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+                        "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+                        "rankingScore": 239.5,
+                        "pricePerPerson": 113,
+                        "submissionCount": 2
+                      },
+                      "votes": 2,
+                      "round": 1
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084758401_5",
+                      "accommodation": {
+                        "id": "custom_1766084500001",
+                        "name": "Mountain View Lodge",
+                        "type": "Custom",
+                        "url": "https://www.vrbo.com/example-mountain-lodge",
+                        "pricePerNight": 320,
+                        "beds": 3,
+                        "bathrooms": 2,
+                        "distanceToMountain": 1.5,
+                        "rating": 4.7,
+                        "amenities": [
+                          "fireplace",
+                          "kitchen",
+                          "wifi",
+                          "parking"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+                        "description": "Cozy mountain lodge with great views",
+                        "rankingScore": 200,
+                        "pricePerPerson": 80,
+                        "isCustom": true,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 1
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 2
+                },
+                "accommodation2": {
+                  "id": "match_1766084758401_6",
+                  "accommodation": {
+                    "id": "custom_1766084600001",
+                    "name": "Alpine Retreat",
+                    "type": "Custom",
+                    "url": "https://www.booking.com/alpine-retreat-utah",
+                    "pricePerNight": 250,
+                    "beds": 2,
+                    "bathrooms": 1,
+                    "distanceToMountain": 2,
+                    "rating": 4.5,
+                    "amenities": [
+                      "fireplace",
+                      "kitchen",
+                      "wifi"
+                    ],
+                    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+                    "description": "Charming alpine retreat perfect for small groups",
+                    "rankingScore": 180,
+                    "pricePerPerson": 63,
+                    "isCustom": true,
+                    "submissionCount": 1
+                  },
+                  "votes": 1,
+                  "round": 2
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 3
+            }
+          ],
+          [
+            {
+              "id": "match_1766084758401_3_0",
+              "matchup": {
+                "accommodation1": {
+                  "id": "match_1766084758401_2_0",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084758401_1_0",
+                      "matchup": {
+                        "accommodation1": {
+                          "id": "match_1766084758401_0",
+                          "accommodation": {
+                            "id": "utah_4_custom",
+                            "name": "Powder Mountain House",
+                            "type": "Airbnb",
+                            "pricePerNight": 420,
+                            "beds": 5,
+                            "bathrooms": 3,
+                            "distanceToMountain": 0.3,
+                            "rating": 4.9,
+                            "amenities": [
+                              "hot_tub",
+                              "ski_storage",
+                              "fireplace",
+                              "kitchen",
+                              "wifi",
+                              "parking",
+                              "mountain_view",
+                              "shuttle_service"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1551524164-6cf2ac531fb4?w=500",
+                            "description": "Luxury house with shuttle service and incredible mountain views.",
+                            "rankingScore": 255,
+                            "pricePerPerson": 105,
+                            "submissionCount": 1
+                          },
+                          "votes": 1,
+                          "round": 1
+                        },
+                        "accommodation2": {
+                          "id": "match_1766084758401_1",
+                          "accommodation": {
+                            "id": "custom_1766076796881",
+                            "name": "Custom Accommodation",
+                            "type": "Custom",
+                            "url": "https://www.airbnb.com/rooms/1338295638221370669?check_in=2025-12-19&check_out=2025-12-21&photo_id=2077238665&source_impression_id=p3_1766076648_P3J2t5Kgxb4kL7-W&previous_page_section_name=1000",
+                            "pricePerNight": 0,
+                            "beds": 0,
+                            "bathrooms": 0,
+                            "distanceToMountain": 0,
+                            "rating": 0,
+                            "amenities": [],
+                            "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
+                            "description": "Custom accommodation added by user",
+                            "rankingScore": 0,
+                            "pricePerPerson": 0,
+                            "isCustom": true,
+                            "submissionCount": 1
+                          },
+                          "votes": 1,
+                          "round": 1
+                        },
+                        "votes1": 0,
+                        "votes2": 0,
+                        "winner": null
+                      },
+                      "round": 2
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084758401_1_2",
+                      "matchup": {
+                        "accommodation1": {
+                          "id": "match_1766084758401_2",
+                          "accommodation": {
+                            "id": "utah_1",
+                            "name": "Cozy Ski Chalet near Snowbird",
+                            "type": "Airbnb",
+                            "pricePerNight": 280,
+                            "beds": 3,
+                            "bathrooms": 2,
+                            "distanceToMountain": 0.8,
+                            "rating": 4.8,
+                            "amenities": [
+                              "hot_tub",
+                              "ski_storage",
+                              "fireplace",
+                              "kitchen",
+                              "wifi",
+                              "parking"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500",
+                            "description": "Beautiful mountain chalet with stunning views, perfect for ski groups.",
+                            "rankingScore": 237,
+                            "pricePerPerson": 70,
+                            "submissionCount": 2
+                          },
+                          "votes": 2,
+                          "round": 1
+                        },
+                        "accommodation2": {
+                          "id": "match_1766084758401_3",
+                          "accommodation": {
+                            "id": "utah_3_custom",
+                            "name": "Ski Resort Townhouse",
+                            "type": "Airbnb",
+                            "pricePerNight": 380,
+                            "beds": 4,
+                            "bathrooms": 2,
+                            "distanceToMountain": 0.5,
+                            "rating": 4.6,
+                            "amenities": [
+                              "hot_tub",
+                              "ski_storage",
+                              "fireplace",
+                              "kitchen",
+                              "wifi",
+                              "parking",
+                              "washer_dryer"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+                            "description": "Modern townhouse steps from the slopes with all amenities.",
+                            "rankingScore": 225,
+                            "pricePerPerson": 95,
+                            "submissionCount": 1
+                          },
+                          "votes": 1,
+                          "round": 1
+                        },
+                        "votes1": 0,
+                        "votes2": 0,
+                        "winner": null
+                      },
+                      "round": 2
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 3
+                },
+                "accommodation2": {
+                  "id": "match_1766084758401_2_2",
+                  "matchup": {
+                    "accommodation1": {
+                      "id": "match_1766084758401_1_4",
+                      "matchup": {
+                        "accommodation1": {
+                          "id": "match_1766084758401_4",
+                          "accommodation": {
+                            "id": "utah_2",
+                            "name": "Luxury Condo - Solitude Village",
+                            "type": "Airbnb",
+                            "pricePerNight": 450,
+                            "beds": 4,
+                            "bathrooms": 3,
+                            "distanceToMountain": 0.2,
+                            "rating": 4.9,
+                            "amenities": [
+                              "hot_tub",
+                              "ski_storage",
+                              "kitchen",
+                              "wifi",
+                              "parking",
+                              "mountain_view"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500",
+                            "description": "Ski-in/ski-out luxury condo with premium amenities and mountain views.",
+                            "rankingScore": 239.5,
+                            "pricePerPerson": 113,
+                            "submissionCount": 2
+                          },
+                          "votes": 2,
+                          "round": 1
+                        },
+                        "accommodation2": {
+                          "id": "match_1766084758401_5",
+                          "accommodation": {
+                            "id": "custom_1766084500001",
+                            "name": "Mountain View Lodge",
+                            "type": "Custom",
+                            "url": "https://www.vrbo.com/example-mountain-lodge",
+                            "pricePerNight": 320,
+                            "beds": 3,
+                            "bathrooms": 2,
+                            "distanceToMountain": 1.5,
+                            "rating": 4.7,
+                            "amenities": [
+                              "fireplace",
+                              "kitchen",
+                              "wifi",
+                              "parking"
+                            ],
+                            "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500",
+                            "description": "Cozy mountain lodge with great views",
+                            "rankingScore": 200,
+                            "pricePerPerson": 80,
+                            "isCustom": true,
+                            "submissionCount": 1
+                          },
+                          "votes": 1,
+                          "round": 1
+                        },
+                        "votes1": 0,
+                        "votes2": 0,
+                        "winner": null
+                      },
+                      "round": 2
+                    },
+                    "accommodation2": {
+                      "id": "match_1766084758401_6",
+                      "accommodation": {
+                        "id": "custom_1766084600001",
+                        "name": "Alpine Retreat",
+                        "type": "Custom",
+                        "url": "https://www.booking.com/alpine-retreat-utah",
+                        "pricePerNight": 250,
+                        "beds": 2,
+                        "bathrooms": 1,
+                        "distanceToMountain": 2,
+                        "rating": 4.5,
+                        "amenities": [
+                          "fireplace",
+                          "kitchen",
+                          "wifi"
+                        ],
+                        "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500",
+                        "description": "Charming alpine retreat perfect for small groups",
+                        "rankingScore": 180,
+                        "pricePerPerson": 63,
+                        "isCustom": true,
+                        "submissionCount": 1
+                      },
+                      "votes": 1,
+                      "round": 2
+                    },
+                    "votes1": 0,
+                    "votes2": 0,
+                    "winner": null
+                  },
+                  "round": 3
+                },
+                "votes1": 0,
+                "votes2": 0,
+                "winner": null
+              },
+              "round": 4
+            }
+          ]
+        ],
+        "totalRounds": 4,
+        "status": "ready"
+      },
+      "createdAt": "2025-12-18T19:05:58.401Z",
+      "status": "active",
+      "currentRound": 1
+    }
+  ],
+  "tournamentSettings": [
+    {
+      "id": "settings_1766084389058",
+      "destination": "Utah",
+      "submissionDeadline": "2025-12-19T04:00:00.000Z",
+      "autoStartTime": "2025-12-20T19:00:00.000Z",
+      "creatorId": "current_user",
+      "minSubmissions": 2,
+      "createdAt": "2025-12-18T18:59:49.058Z",
+      "status": "active"
+    }
+  ]
+}

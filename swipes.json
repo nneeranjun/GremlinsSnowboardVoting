@@ -1,0 +1,42 @@
+{
+  "Utah": {
+    "likes": 1,
+    "dislikes": 0
+  },
+  "Colorado": {
+    "likes": 0,
+    "dislikes": 1
+  },
+  "New Mexico": {
+    "likes": 0,
+    "dislikes": 1
+  },
+  "California": {
+    "likes": 1,
+    "dislikes": 0
+  },
+  "France": {
+    "likes": 1,
+    "dislikes": 0
+  },
+  "Western Canada": {
+    "likes": 1,
+    "dislikes": 0
+  },
+  "Switzerland": {
+    "likes": 0,
+    "dislikes": 1
+  },
+  "Northern Rockies": {
+    "likes": 0,
+    "dislikes": 1
+  },
+  "Washington": {
+    "likes": 1,
+    "dislikes": 0
+  },
+  "Italy": {
+    "likes": 1,
+    "dislikes": 0
+  }
+}

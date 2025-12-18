@@ -1,0 +1,105 @@
+.countdown-timer {
+  background: var(--card-bg);
+  border-radius: 15px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 4px 6px var(--shadow-card);
+  border: 2px solid var(--border-color);
+  transition: all 0.3s ease;
+}
+
+.countdown-timer.expired {
+  border-color: var(--danger);
+  background: rgba(239, 68, 68, 0.1);
+}
+
+.countdown-label {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.countdown-display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.countdown-unit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.countdown-number {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--accent-primary);
+  line-height: 1;
+  min-width: 3rem;
+  text-align: center;
+}
+
+.countdown-text {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.countdown-separator {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  margin: 0 0.25rem;
+}
+
+.countdown-value {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--danger);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .countdown-timer {
+    padding: 1rem;
+  }
+  
+  .countdown-number {
+    font-size: 1.5rem;
+    min-width: 2.5rem;
+  }
+  
+  .countdown-separator {
+    font-size: 1.2rem;
+  }
+  
+  .countdown-display {
+    gap: 0.25rem;
+  }
+}
+
+/* Animation for urgency */
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+.countdown-timer.urgent {
+  animation: pulse 2s infinite;
+  border-color: var(--warning);
+}
+
+.countdown-timer.critical {
+  animation: pulse 1s infinite;
+  border-color: var(--danger);
+}

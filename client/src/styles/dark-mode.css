@@ -1,0 +1,33 @@
+/* Global Dark Mode Styles - Minimal Override Approach */
+
+/* Page backgrounds with gradients - use CSS variables */
+.dark-mode .voting-page,
+.dark-mode .tournament-home,
+.dark-mode .tournament-page,
+.dark-mode .submission-page,
+.dark-mode .accommodations-page {
+  background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%) !important;
+}
+
+/* Navigation dark mode override */
+.dark-mode .navigation {
+  background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%) !important;
+}
+
+/* Scrollbars for dark mode */
+.dark-mode ::-webkit-scrollbar {
+  width: 8px;
+}
+
+.dark-mode ::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+
+.dark-mode ::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+
+.dark-mode ::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
